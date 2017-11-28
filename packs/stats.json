@@ -2,23 +2,23 @@
   "errors": [],
   "warnings": [],
   "version": "3.8.1",
-  "hash": "8b27aa4f1906fb37ce35",
-  "time": 5950,
+  "hash": "5188f3223ae221e365d4",
+  "time": 5486,
   "publicPath": "/assets/packs/",
   "assetsByChunkName": {
     "server_rendering": [
-      "server_rendering-2b2356663322822d8089.js",
-      "server_rendering-2b2356663322822d8089.js.map"
+      "server_rendering-8ec58ff73c74b2ba5eeb.js",
+      "server_rendering-8ec58ff73c74b2ba5eeb.js.map"
     ],
     "application": [
-      "application-8dba3ef0cefa782266b1.js",
-      "application-8dba3ef0cefa782266b1.js.map"
+      "application-159ebea53cefc8ba5f63.js",
+      "application-159ebea53cefc8ba5f63.js.map"
     ]
   },
   "assets": [
     {
-      "name": "server_rendering-2b2356663322822d8089.js",
-      "size": 160279,
+      "name": "server_rendering-8ec58ff73c74b2ba5eeb.js",
+      "size": 160107,
       "chunks": [
         0
       ],
@@ -28,8 +28,8 @@
       "emitted": true
     },
     {
-      "name": "application-8dba3ef0cefa782266b1.js",
-      "size": 160546,
+      "name": "application-159ebea53cefc8ba5f63.js",
+      "size": 160374,
       "chunks": [
         1
       ],
@@ -39,8 +39,8 @@
       "emitted": true
     },
     {
-      "name": "server_rendering-2b2356663322822d8089.js.map",
-      "size": 202377,
+      "name": "server_rendering-8ec58ff73c74b2ba5eeb.js.map",
+      "size": 202203,
       "chunks": [
         0
       ],
@@ -50,8 +50,8 @@
       "emitted": true
     },
     {
-      "name": "application-8dba3ef0cefa782266b1.js.map",
-      "size": 203044,
+      "name": "application-159ebea53cefc8ba5f63.js.map",
+      "size": 202870,
       "chunks": [
         1
       ],
@@ -69,21 +69,21 @@
     },
     {
       "name": "manifest.json.gz",
-      "size": 149,
+      "size": 148,
       "chunks": [],
       "chunkNames": [],
       "emitted": true
     },
     {
-      "name": "server_rendering-2b2356663322822d8089.js.gz",
-      "size": 50311,
+      "name": "server_rendering-8ec58ff73c74b2ba5eeb.js.gz",
+      "size": 50272,
       "chunks": [],
       "chunkNames": [],
       "emitted": true
     },
     {
-      "name": "application-8dba3ef0cefa782266b1.js.gz",
-      "size": 50383,
+      "name": "application-159ebea53cefc8ba5f63.js.gz",
+      "size": 50345,
       "chunks": [],
       "chunkNames": [],
       "emitted": true
@@ -96,8 +96,8 @@
         1
       ],
       "assets": [
-        "application-8dba3ef0cefa782266b1.js",
-        "application-8dba3ef0cefa782266b1.js.map"
+        "application-159ebea53cefc8ba5f63.js",
+        "application-159ebea53cefc8ba5f63.js.map"
       ]
     },
     "server_rendering": {
@@ -105,8 +105,8 @@
         0
       ],
       "assets": [
-        "server_rendering-2b2356663322822d8089.js",
-        "server_rendering-2b2356663322822d8089.js.map"
+        "server_rendering-8ec58ff73c74b2ba5eeb.js",
+        "server_rendering-8ec58ff73c74b2ba5eeb.js.map"
       ]
     }
   },
@@ -117,15 +117,15 @@
       "initial": true,
       "entry": true,
       "extraAsync": false,
-      "size": 237467,
+      "size": 237178,
       "names": [
         "server_rendering"
       ],
       "files": [
-        "server_rendering-2b2356663322822d8089.js",
-        "server_rendering-2b2356663322822d8089.js.map"
+        "server_rendering-8ec58ff73c74b2ba5eeb.js",
+        "server_rendering-8ec58ff73c74b2ba5eeb.js.map"
       ],
-      "hash": "2b2356663322822d8089",
+      "hash": "8ec58ff73c74b2ba5eeb",
       "parents": [],
       "modules": [
         {
@@ -167,7 +167,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "react",
-              "loc": "8:0-26"
+              "loc": "6:0-26"
             },
             {
               "moduleId": 10,
@@ -248,9 +248,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/create-react-class/factory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -325,9 +325,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/create-react-class/factory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -393,9 +393,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/create-react-class/factory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -552,7 +552,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "prop-types",
-              "loc": "10:0-35"
+              "loc": "8:0-35"
             },
             {
               "moduleId": 27,
@@ -689,7 +689,7 @@
           "name": "./app/javascript/components/HandoverAutocomplete.js",
           "index": 26,
           "index2": 28,
-          "size": 6190,
+          "size": 5901,
           "cacheable": true,
           "built": true,
           "optional": true,
@@ -733,7 +733,7 @@
             "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: ./app/javascript/components ^\\.\\/.*$ (referenced with context element)"
           ],
           "depth": 3,
-          "source": "var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };\n\n// TODO: cleanup\n/* eslint-disable react/no-string-refs */\n\n/* global _ */\n/* global _jed */\nimport React from 'react';\nimport createReactClass from 'create-react-class';\nimport PropTypes from 'prop-types';\n\nimport Autocomplete from '@eins78/react-autocomplete';\n\nexport var HandoverAutocomplete = createReactClass({\n  displayName: 'HandoverAutocomplete',\n\n  propTypes: {\n    placeholder: PropTypes.string.isRequired,\n    onChange: PropTypes.func.isRequired,\n    onSelect: PropTypes.func.isRequired,\n    isLoading: PropTypes.bool.isRequired,\n    searchResults: PropTypes.arrayOf(PropTypes.shape({\n      name: PropTypes.string.isRequired,\n      availability: PropTypes.string,\n      type: PropTypes.string.isRequired,\n      record: PropTypes.object.isRequired\n    }))\n  },\n  getInitialState: function getInitialState() {\n    return { value: '' };\n  },\n  _handleChange: function _handleChange(event, value) {\n    // update internal state to reflect new input:\n    this.setState({ value: value });\n    // callback to controller:\n    this.props.onChange(value);\n  },\n  _handleSelect: function _handleSelect(value, item) {\n    // reset the input field\n    this.setState({ value: '' });\n\n    // callback\n    this.props.onSelect(item);\n  },\n\n  // public methods\n  resetInput: function resetInput() {\n    // reset the input field\n    this.setState({ value: '' });\n  },\n\n  // mirror jQueryAutocomplete API\n  val: function val(str) {\n    this.setState({ value: str });\n  },\n\n  // \"partials\"\n  _renderMenu: function _renderMenu(items, value, givenStyles) {\n    var props = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : this.props;\n\n    // show nothing when no search:\n    if (value === '') {\n      return React.createElement('div', { style: { display: 'none' } });\n    }\n\n    var menuProps = {\n      className: 'ui-autocomplete ui-autocomplete-scrollable ui-front ui-menu',\n      style: _extends({ display: 'inline-block', position: 'fixed' }, givenStyles)\n    };\n\n    if (props.isLoading) {\n      return React.createElement(\n        'div',\n        menuProps,\n        React.createElement('div', { className: 'loading-bg-small margin-top-m margin-bottom-m' })\n      );\n    }\n\n    var models = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Model');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var options = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Option');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var templates = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Template');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    // searched but no results:\n    if (props.searchResults && _.all([models, options, templates], _.isEmpty)) {\n      return React.createElement(\n        'ul',\n        menuProps,\n        React.createElement(\n          'li',\n          { className: 'padding-left-s margin-top-m margin-bottom-m' },\n          _jed('No results')\n        )\n      );\n    }\n\n    return React.createElement(\n      'ul',\n      menuProps,\n      _.isEmpty(models) ? null : this._renderMenuSubSection(_jed('Models'), models),\n      _.isEmpty(options) ? null : this._renderMenuSubSection(_jed('Options'), options),\n      _.isEmpty(templates) ? null : this._renderMenuSubSection(_jed('Templates'), templates)\n    );\n  },\n  _renderMenuSubSection: function _renderMenuSubSection(heading, list) {\n    return [React.createElement(\n      'li',\n      { className: 'submenu-header', key: heading + '-header' },\n      React.createElement(\n        'b',\n        null,\n        heading\n      )\n    ), React.createElement(\n      'li',\n      { className: 'submenu-scroll', key: heading + '-list' },\n      React.createElement(\n        'ul',\n        null,\n        list\n      )\n    )];\n  },\n  _renderMenuItem: function _renderMenuItem(item) {\n    return React.createElement(\n      'li',\n      {\n        key: item.type + item.name + item.record.cid,\n        item: item,\n        id: item.abbr,\n        className: 'separated-bottom exclude-last-child' },\n      React.createElement(\n        'a',\n        { className: 'row' + (!item.available ? ' light-red' : ''), title: item.name },\n        React.createElement(\n          'div',\n          { className: 'row' },\n          React.createElement(\n            'div',\n            { className: 'col3of4', title: item.name },\n            React.createElement(\n              'strong',\n              { className: 'wrap' },\n              item.name\n            )\n          ),\n          React.createElement(\n            'div',\n            { className: 'col1of4 text-align-right' },\n            React.createElement(\n              'div',\n              { className: 'row' },\n              item.availability\n            ),\n            React.createElement(\n              'div',\n              { className: 'row' },\n              React.createElement(\n                'span',\n                { className: 'grey-text' },\n                item.type\n              )\n            )\n          )\n        )\n      )\n    );\n  },\n  render: function render() {\n    var props = this.props;\n\n    var inputProps = {\n      type: 'text',\n      // TODO: id: 'assign-or-add-input'???\n      className: 'row',\n      placeholder: props.placeholder\n    };\n\n    var wrapperProps = { style: {} };\n\n    return React.createElement(\n      'div',\n      null,\n      React.createElement(Autocomplete, {\n        ref: 'autocomplete',\n        value: this.state.value,\n        items: props.searchResults || [],\n        wrapperProps: wrapperProps,\n        inputProps: inputProps,\n        renderMenu: this._renderMenu,\n        selectOnInputClick: false,\n        getItemValue: function getItemValue(item) {\n          return item.name;\n        },\n        onSelect: this._handleSelect,\n        onChange: this._handleChange,\n        renderItem: this._renderMenuItem\n      })\n    );\n  }\n});"
+          "source": "// TODO: cleanup\n/* eslint-disable react/no-string-refs */\n\n/* global _ */\n/* global _jed */\nimport React from 'react';\nimport createReactClass from 'create-react-class';\nimport PropTypes from 'prop-types';\n\nimport Autocomplete from '@eins78/react-autocomplete';\n\nexport var HandoverAutocomplete = createReactClass({\n  displayName: 'HandoverAutocomplete',\n\n  propTypes: {\n    placeholder: PropTypes.string.isRequired,\n    onChange: PropTypes.func.isRequired,\n    onSelect: PropTypes.func.isRequired,\n    isLoading: PropTypes.bool.isRequired,\n    searchResults: PropTypes.arrayOf(PropTypes.shape({\n      name: PropTypes.string.isRequired,\n      availability: PropTypes.string,\n      type: PropTypes.string.isRequired,\n      record: PropTypes.object.isRequired\n    }))\n  },\n  getInitialState: function getInitialState() {\n    return { value: '' };\n  },\n  _handleChange: function _handleChange(event, value) {\n    // update internal state to reflect new input:\n    this.setState({ value: value });\n    // callback to controller:\n    this.props.onChange(value);\n  },\n  _handleSelect: function _handleSelect(value, item) {\n    // reset the input field\n    this.setState({ value: '' });\n\n    // callback\n    this.props.onSelect(item);\n  },\n\n  // public methods\n  resetInput: function resetInput() {\n    // reset the input field\n    this.setState({ value: '' });\n  },\n\n  // mirror jQueryAutocomplete API\n  val: function val(str) {\n    this.setState({ value: str });\n  },\n\n  // \"partials\"\n  _renderMenu: function _renderMenu(items, value, givenStyles) {\n    var props = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : this.props;\n\n    // show nothing when no search:\n    if (value === '') {\n      return React.createElement('div', { style: { display: 'none' } });\n    }\n\n    var menuProps = {\n      className: 'ui-autocomplete ui-autocomplete-scrollable ui-front ui-menu',\n      style: {\n        display: 'inline-block',\n        position: 'absolute',\n        top: '31px',\n        width: '100%'\n      }\n    };\n\n    if (props.isLoading) {\n      return React.createElement(\n        'div',\n        menuProps,\n        React.createElement('div', { className: 'loading-bg-small margin-top-m margin-bottom-m' })\n      );\n    }\n\n    var models = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Model');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var options = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Option');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var templates = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Template');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    // searched but no results:\n    if (props.searchResults && _.all([models, options, templates], _.isEmpty)) {\n      return React.createElement(\n        'ul',\n        menuProps,\n        React.createElement(\n          'li',\n          { className: 'padding-left-s margin-top-m margin-bottom-m' },\n          _jed('No results')\n        )\n      );\n    }\n\n    return React.createElement(\n      'ul',\n      menuProps,\n      _.isEmpty(models) ? null : this._renderMenuSubSection(_jed('Models'), models),\n      _.isEmpty(options) ? null : this._renderMenuSubSection(_jed('Options'), options),\n      _.isEmpty(templates) ? null : this._renderMenuSubSection(_jed('Templates'), templates)\n    );\n  },\n  _renderMenuSubSection: function _renderMenuSubSection(heading, list) {\n    return [React.createElement(\n      'li',\n      { className: 'submenu-header', key: heading + '-header' },\n      React.createElement(\n        'b',\n        null,\n        heading\n      )\n    ), React.createElement(\n      'li',\n      { className: 'submenu-scroll', key: heading + '-list' },\n      React.createElement(\n        'ul',\n        null,\n        list\n      )\n    )];\n  },\n  _renderMenuItem: function _renderMenuItem(item) {\n    return React.createElement(\n      'li',\n      {\n        key: item.type + item.name + item.record.cid,\n        item: item,\n        id: item.abbr,\n        className: 'separated-bottom exclude-last-child' },\n      React.createElement(\n        'a',\n        { className: 'row' + (!item.available ? ' light-red' : ''), title: item.name },\n        React.createElement(\n          'div',\n          { className: 'row' },\n          React.createElement(\n            'div',\n            { className: 'col3of4', title: item.name },\n            React.createElement(\n              'strong',\n              { className: 'wrap' },\n              item.name\n            )\n          ),\n          React.createElement(\n            'div',\n            { className: 'col1of4 text-align-right' },\n            React.createElement(\n              'div',\n              { className: 'row' },\n              item.availability\n            ),\n            React.createElement(\n              'div',\n              { className: 'row' },\n              React.createElement(\n                'span',\n                { className: 'grey-text' },\n                item.type\n              )\n            )\n          )\n        )\n      )\n    );\n  },\n  render: function render() {\n    var props = this.props;\n\n    var inputProps = {\n      type: 'text',\n      // TODO: id: 'assign-or-add-input'???\n      className: 'row',\n      placeholder: props.placeholder\n    };\n\n    var wrapperProps = {\n      style: {}\n    };\n\n    return React.createElement(Autocomplete, {\n      ref: 'autocomplete',\n      value: this.state.value,\n      items: props.searchResults || [],\n      wrapperProps: wrapperProps,\n      inputProps: inputProps,\n      renderMenu: this._renderMenu,\n      selectOnInputClick: false,\n      getItemValue: function getItemValue(item) {\n        return item.name;\n      },\n      onSelect: this._handleSelect,\n      onChange: this._handleChange,\n      renderItem: this._renderMenuItem\n    });\n  }\n});"
         },
         {
           "id": 9,
@@ -815,7 +815,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "create-react-class",
-              "loc": "9:0-50"
+              "loc": "7:0-50"
             },
             {
               "moduleId": 46,
@@ -1304,9 +1304,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/babel-loader/lib/index.js??ref--0!/Users/ma/CODE/leihs/legacy/app/javascript/packs/server_rendering.js",
-          "issuerId": 47,
-          "issuerName": "./app/javascript/packs/server_rendering.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/babel-loader/lib/index.js??ref--0!/Users/ma/CODE/leihs/legacy/app/javascript/packs/application.js",
+          "issuerId": 46,
+          "issuerName": "./app/javascript/packs/application.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -1537,7 +1537,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "@eins78/react-autocomplete",
-              "loc": "12:0-54"
+              "loc": "10:0-54"
             }
           ],
           "usedExports": [
@@ -2338,15 +2338,15 @@
       "initial": true,
       "entry": true,
       "extraAsync": false,
-      "size": 238133,
+      "size": 237844,
       "names": [
         "application"
       ],
       "files": [
-        "application-8dba3ef0cefa782266b1.js",
-        "application-8dba3ef0cefa782266b1.js.map"
+        "application-159ebea53cefc8ba5f63.js",
+        "application-159ebea53cefc8ba5f63.js.map"
       ],
-      "hash": "8dba3ef0cefa782266b1",
+      "hash": "159ebea53cefc8ba5f63",
       "parents": [],
       "modules": [
         {
@@ -2388,7 +2388,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "react",
-              "loc": "8:0-26"
+              "loc": "6:0-26"
             },
             {
               "moduleId": 10,
@@ -2469,9 +2469,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/create-react-class/factory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2546,9 +2546,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/create-react-class/factory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2614,9 +2614,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/create-react-class/factory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2773,7 +2773,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "prop-types",
-              "loc": "10:0-35"
+              "loc": "8:0-35"
             },
             {
               "moduleId": 27,
@@ -2910,7 +2910,7 @@
           "name": "./app/javascript/components/HandoverAutocomplete.js",
           "index": 26,
           "index2": 28,
-          "size": 6190,
+          "size": 5901,
           "cacheable": true,
           "built": true,
           "optional": true,
@@ -2954,7 +2954,7 @@
             "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: ./app/javascript/components ^\\.\\/.*$ (referenced with context element)"
           ],
           "depth": 3,
-          "source": "var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };\n\n// TODO: cleanup\n/* eslint-disable react/no-string-refs */\n\n/* global _ */\n/* global _jed */\nimport React from 'react';\nimport createReactClass from 'create-react-class';\nimport PropTypes from 'prop-types';\n\nimport Autocomplete from '@eins78/react-autocomplete';\n\nexport var HandoverAutocomplete = createReactClass({\n  displayName: 'HandoverAutocomplete',\n\n  propTypes: {\n    placeholder: PropTypes.string.isRequired,\n    onChange: PropTypes.func.isRequired,\n    onSelect: PropTypes.func.isRequired,\n    isLoading: PropTypes.bool.isRequired,\n    searchResults: PropTypes.arrayOf(PropTypes.shape({\n      name: PropTypes.string.isRequired,\n      availability: PropTypes.string,\n      type: PropTypes.string.isRequired,\n      record: PropTypes.object.isRequired\n    }))\n  },\n  getInitialState: function getInitialState() {\n    return { value: '' };\n  },\n  _handleChange: function _handleChange(event, value) {\n    // update internal state to reflect new input:\n    this.setState({ value: value });\n    // callback to controller:\n    this.props.onChange(value);\n  },\n  _handleSelect: function _handleSelect(value, item) {\n    // reset the input field\n    this.setState({ value: '' });\n\n    // callback\n    this.props.onSelect(item);\n  },\n\n  // public methods\n  resetInput: function resetInput() {\n    // reset the input field\n    this.setState({ value: '' });\n  },\n\n  // mirror jQueryAutocomplete API\n  val: function val(str) {\n    this.setState({ value: str });\n  },\n\n  // \"partials\"\n  _renderMenu: function _renderMenu(items, value, givenStyles) {\n    var props = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : this.props;\n\n    // show nothing when no search:\n    if (value === '') {\n      return React.createElement('div', { style: { display: 'none' } });\n    }\n\n    var menuProps = {\n      className: 'ui-autocomplete ui-autocomplete-scrollable ui-front ui-menu',\n      style: _extends({ display: 'inline-block', position: 'fixed' }, givenStyles)\n    };\n\n    if (props.isLoading) {\n      return React.createElement(\n        'div',\n        menuProps,\n        React.createElement('div', { className: 'loading-bg-small margin-top-m margin-bottom-m' })\n      );\n    }\n\n    var models = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Model');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var options = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Option');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var templates = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Template');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    // searched but no results:\n    if (props.searchResults && _.all([models, options, templates], _.isEmpty)) {\n      return React.createElement(\n        'ul',\n        menuProps,\n        React.createElement(\n          'li',\n          { className: 'padding-left-s margin-top-m margin-bottom-m' },\n          _jed('No results')\n        )\n      );\n    }\n\n    return React.createElement(\n      'ul',\n      menuProps,\n      _.isEmpty(models) ? null : this._renderMenuSubSection(_jed('Models'), models),\n      _.isEmpty(options) ? null : this._renderMenuSubSection(_jed('Options'), options),\n      _.isEmpty(templates) ? null : this._renderMenuSubSection(_jed('Templates'), templates)\n    );\n  },\n  _renderMenuSubSection: function _renderMenuSubSection(heading, list) {\n    return [React.createElement(\n      'li',\n      { className: 'submenu-header', key: heading + '-header' },\n      React.createElement(\n        'b',\n        null,\n        heading\n      )\n    ), React.createElement(\n      'li',\n      { className: 'submenu-scroll', key: heading + '-list' },\n      React.createElement(\n        'ul',\n        null,\n        list\n      )\n    )];\n  },\n  _renderMenuItem: function _renderMenuItem(item) {\n    return React.createElement(\n      'li',\n      {\n        key: item.type + item.name + item.record.cid,\n        item: item,\n        id: item.abbr,\n        className: 'separated-bottom exclude-last-child' },\n      React.createElement(\n        'a',\n        { className: 'row' + (!item.available ? ' light-red' : ''), title: item.name },\n        React.createElement(\n          'div',\n          { className: 'row' },\n          React.createElement(\n            'div',\n            { className: 'col3of4', title: item.name },\n            React.createElement(\n              'strong',\n              { className: 'wrap' },\n              item.name\n            )\n          ),\n          React.createElement(\n            'div',\n            { className: 'col1of4 text-align-right' },\n            React.createElement(\n              'div',\n              { className: 'row' },\n              item.availability\n            ),\n            React.createElement(\n              'div',\n              { className: 'row' },\n              React.createElement(\n                'span',\n                { className: 'grey-text' },\n                item.type\n              )\n            )\n          )\n        )\n      )\n    );\n  },\n  render: function render() {\n    var props = this.props;\n\n    var inputProps = {\n      type: 'text',\n      // TODO: id: 'assign-or-add-input'???\n      className: 'row',\n      placeholder: props.placeholder\n    };\n\n    var wrapperProps = { style: {} };\n\n    return React.createElement(\n      'div',\n      null,\n      React.createElement(Autocomplete, {\n        ref: 'autocomplete',\n        value: this.state.value,\n        items: props.searchResults || [],\n        wrapperProps: wrapperProps,\n        inputProps: inputProps,\n        renderMenu: this._renderMenu,\n        selectOnInputClick: false,\n        getItemValue: function getItemValue(item) {\n          return item.name;\n        },\n        onSelect: this._handleSelect,\n        onChange: this._handleChange,\n        renderItem: this._renderMenuItem\n      })\n    );\n  }\n});"
+          "source": "// TODO: cleanup\n/* eslint-disable react/no-string-refs */\n\n/* global _ */\n/* global _jed */\nimport React from 'react';\nimport createReactClass from 'create-react-class';\nimport PropTypes from 'prop-types';\n\nimport Autocomplete from '@eins78/react-autocomplete';\n\nexport var HandoverAutocomplete = createReactClass({\n  displayName: 'HandoverAutocomplete',\n\n  propTypes: {\n    placeholder: PropTypes.string.isRequired,\n    onChange: PropTypes.func.isRequired,\n    onSelect: PropTypes.func.isRequired,\n    isLoading: PropTypes.bool.isRequired,\n    searchResults: PropTypes.arrayOf(PropTypes.shape({\n      name: PropTypes.string.isRequired,\n      availability: PropTypes.string,\n      type: PropTypes.string.isRequired,\n      record: PropTypes.object.isRequired\n    }))\n  },\n  getInitialState: function getInitialState() {\n    return { value: '' };\n  },\n  _handleChange: function _handleChange(event, value) {\n    // update internal state to reflect new input:\n    this.setState({ value: value });\n    // callback to controller:\n    this.props.onChange(value);\n  },\n  _handleSelect: function _handleSelect(value, item) {\n    // reset the input field\n    this.setState({ value: '' });\n\n    // callback\n    this.props.onSelect(item);\n  },\n\n  // public methods\n  resetInput: function resetInput() {\n    // reset the input field\n    this.setState({ value: '' });\n  },\n\n  // mirror jQueryAutocomplete API\n  val: function val(str) {\n    this.setState({ value: str });\n  },\n\n  // \"partials\"\n  _renderMenu: function _renderMenu(items, value, givenStyles) {\n    var props = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : this.props;\n\n    // show nothing when no search:\n    if (value === '') {\n      return React.createElement('div', { style: { display: 'none' } });\n    }\n\n    var menuProps = {\n      className: 'ui-autocomplete ui-autocomplete-scrollable ui-front ui-menu',\n      style: {\n        display: 'inline-block',\n        position: 'absolute',\n        top: '31px',\n        width: '100%'\n      }\n    };\n\n    if (props.isLoading) {\n      return React.createElement(\n        'div',\n        menuProps,\n        React.createElement('div', { className: 'loading-bg-small margin-top-m margin-bottom-m' })\n      );\n    }\n\n    var models = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Model');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var options = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Option');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var templates = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Template');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    // searched but no results:\n    if (props.searchResults && _.all([models, options, templates], _.isEmpty)) {\n      return React.createElement(\n        'ul',\n        menuProps,\n        React.createElement(\n          'li',\n          { className: 'padding-left-s margin-top-m margin-bottom-m' },\n          _jed('No results')\n        )\n      );\n    }\n\n    return React.createElement(\n      'ul',\n      menuProps,\n      _.isEmpty(models) ? null : this._renderMenuSubSection(_jed('Models'), models),\n      _.isEmpty(options) ? null : this._renderMenuSubSection(_jed('Options'), options),\n      _.isEmpty(templates) ? null : this._renderMenuSubSection(_jed('Templates'), templates)\n    );\n  },\n  _renderMenuSubSection: function _renderMenuSubSection(heading, list) {\n    return [React.createElement(\n      'li',\n      { className: 'submenu-header', key: heading + '-header' },\n      React.createElement(\n        'b',\n        null,\n        heading\n      )\n    ), React.createElement(\n      'li',\n      { className: 'submenu-scroll', key: heading + '-list' },\n      React.createElement(\n        'ul',\n        null,\n        list\n      )\n    )];\n  },\n  _renderMenuItem: function _renderMenuItem(item) {\n    return React.createElement(\n      'li',\n      {\n        key: item.type + item.name + item.record.cid,\n        item: item,\n        id: item.abbr,\n        className: 'separated-bottom exclude-last-child' },\n      React.createElement(\n        'a',\n        { className: 'row' + (!item.available ? ' light-red' : ''), title: item.name },\n        React.createElement(\n          'div',\n          { className: 'row' },\n          React.createElement(\n            'div',\n            { className: 'col3of4', title: item.name },\n            React.createElement(\n              'strong',\n              { className: 'wrap' },\n              item.name\n            )\n          ),\n          React.createElement(\n            'div',\n            { className: 'col1of4 text-align-right' },\n            React.createElement(\n              'div',\n              { className: 'row' },\n              item.availability\n            ),\n            React.createElement(\n              'div',\n              { className: 'row' },\n              React.createElement(\n                'span',\n                { className: 'grey-text' },\n                item.type\n              )\n            )\n          )\n        )\n      )\n    );\n  },\n  render: function render() {\n    var props = this.props;\n\n    var inputProps = {\n      type: 'text',\n      // TODO: id: 'assign-or-add-input'???\n      className: 'row',\n      placeholder: props.placeholder\n    };\n\n    var wrapperProps = {\n      style: {}\n    };\n\n    return React.createElement(Autocomplete, {\n      ref: 'autocomplete',\n      value: this.state.value,\n      items: props.searchResults || [],\n      wrapperProps: wrapperProps,\n      inputProps: inputProps,\n      renderMenu: this._renderMenu,\n      selectOnInputClick: false,\n      getItemValue: function getItemValue(item) {\n        return item.name;\n      },\n      onSelect: this._handleSelect,\n      onChange: this._handleChange,\n      renderItem: this._renderMenuItem\n    });\n  }\n});"
         },
         {
           "id": 9,
@@ -3036,7 +3036,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "create-react-class",
-              "loc": "9:0-50"
+              "loc": "7:0-50"
             },
             {
               "moduleId": 46,
@@ -3525,9 +3525,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/babel-loader/lib/index.js??ref--0!/Users/ma/CODE/leihs/legacy/app/javascript/packs/server_rendering.js",
-          "issuerId": 47,
-          "issuerName": "./app/javascript/packs/server_rendering.js",
+          "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/babel-loader/lib/index.js??ref--0!/Users/ma/CODE/leihs/legacy/app/javascript/packs/application.js",
+          "issuerId": 46,
+          "issuerName": "./app/javascript/packs/application.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3758,7 +3758,7 @@
               "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
               "type": "harmony import",
               "userRequest": "@eins78/react-autocomplete",
-              "loc": "12:0-54"
+              "loc": "10:0-54"
             }
           ],
           "usedExports": [
@@ -4600,7 +4600,7 @@
           "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
           "type": "harmony import",
           "userRequest": "react",
-          "loc": "8:0-26"
+          "loc": "6:0-26"
         },
         {
           "moduleId": 10,
@@ -4681,9 +4681,9 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-      "issuerId": 11,
-      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+      "issuerId": 21,
+      "issuerName": "./node_modules/create-react-class/factory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -4758,9 +4758,9 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-      "issuerId": 11,
-      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+      "issuerId": 21,
+      "issuerName": "./node_modules/create-react-class/factory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -4826,9 +4826,9 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/react/cjs/react.production.min.js",
-      "issuerId": 11,
-      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/create-react-class/factory.js",
+      "issuerId": 21,
+      "issuerName": "./node_modules/create-react-class/factory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -4985,7 +4985,7 @@
           "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
           "type": "harmony import",
           "userRequest": "prop-types",
-          "loc": "10:0-35"
+          "loc": "8:0-35"
         },
         {
           "moduleId": 27,
@@ -5122,7 +5122,7 @@
       "name": "./app/javascript/components/HandoverAutocomplete.js",
       "index": 26,
       "index2": 28,
-      "size": 6190,
+      "size": 5901,
       "cacheable": true,
       "built": true,
       "optional": true,
@@ -5166,7 +5166,7 @@
         "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: ./app/javascript/components ^\\.\\/.*$ (referenced with context element)"
       ],
       "depth": 3,
-      "source": "var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };\n\n// TODO: cleanup\n/* eslint-disable react/no-string-refs */\n\n/* global _ */\n/* global _jed */\nimport React from 'react';\nimport createReactClass from 'create-react-class';\nimport PropTypes from 'prop-types';\n\nimport Autocomplete from '@eins78/react-autocomplete';\n\nexport var HandoverAutocomplete = createReactClass({\n  displayName: 'HandoverAutocomplete',\n\n  propTypes: {\n    placeholder: PropTypes.string.isRequired,\n    onChange: PropTypes.func.isRequired,\n    onSelect: PropTypes.func.isRequired,\n    isLoading: PropTypes.bool.isRequired,\n    searchResults: PropTypes.arrayOf(PropTypes.shape({\n      name: PropTypes.string.isRequired,\n      availability: PropTypes.string,\n      type: PropTypes.string.isRequired,\n      record: PropTypes.object.isRequired\n    }))\n  },\n  getInitialState: function getInitialState() {\n    return { value: '' };\n  },\n  _handleChange: function _handleChange(event, value) {\n    // update internal state to reflect new input:\n    this.setState({ value: value });\n    // callback to controller:\n    this.props.onChange(value);\n  },\n  _handleSelect: function _handleSelect(value, item) {\n    // reset the input field\n    this.setState({ value: '' });\n\n    // callback\n    this.props.onSelect(item);\n  },\n\n  // public methods\n  resetInput: function resetInput() {\n    // reset the input field\n    this.setState({ value: '' });\n  },\n\n  // mirror jQueryAutocomplete API\n  val: function val(str) {\n    this.setState({ value: str });\n  },\n\n  // \"partials\"\n  _renderMenu: function _renderMenu(items, value, givenStyles) {\n    var props = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : this.props;\n\n    // show nothing when no search:\n    if (value === '') {\n      return React.createElement('div', { style: { display: 'none' } });\n    }\n\n    var menuProps = {\n      className: 'ui-autocomplete ui-autocomplete-scrollable ui-front ui-menu',\n      style: _extends({ display: 'inline-block', position: 'fixed' }, givenStyles)\n    };\n\n    if (props.isLoading) {\n      return React.createElement(\n        'div',\n        menuProps,\n        React.createElement('div', { className: 'loading-bg-small margin-top-m margin-bottom-m' })\n      );\n    }\n\n    var models = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Model');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var options = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Option');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var templates = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Template');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    // searched but no results:\n    if (props.searchResults && _.all([models, options, templates], _.isEmpty)) {\n      return React.createElement(\n        'ul',\n        menuProps,\n        React.createElement(\n          'li',\n          { className: 'padding-left-s margin-top-m margin-bottom-m' },\n          _jed('No results')\n        )\n      );\n    }\n\n    return React.createElement(\n      'ul',\n      menuProps,\n      _.isEmpty(models) ? null : this._renderMenuSubSection(_jed('Models'), models),\n      _.isEmpty(options) ? null : this._renderMenuSubSection(_jed('Options'), options),\n      _.isEmpty(templates) ? null : this._renderMenuSubSection(_jed('Templates'), templates)\n    );\n  },\n  _renderMenuSubSection: function _renderMenuSubSection(heading, list) {\n    return [React.createElement(\n      'li',\n      { className: 'submenu-header', key: heading + '-header' },\n      React.createElement(\n        'b',\n        null,\n        heading\n      )\n    ), React.createElement(\n      'li',\n      { className: 'submenu-scroll', key: heading + '-list' },\n      React.createElement(\n        'ul',\n        null,\n        list\n      )\n    )];\n  },\n  _renderMenuItem: function _renderMenuItem(item) {\n    return React.createElement(\n      'li',\n      {\n        key: item.type + item.name + item.record.cid,\n        item: item,\n        id: item.abbr,\n        className: 'separated-bottom exclude-last-child' },\n      React.createElement(\n        'a',\n        { className: 'row' + (!item.available ? ' light-red' : ''), title: item.name },\n        React.createElement(\n          'div',\n          { className: 'row' },\n          React.createElement(\n            'div',\n            { className: 'col3of4', title: item.name },\n            React.createElement(\n              'strong',\n              { className: 'wrap' },\n              item.name\n            )\n          ),\n          React.createElement(\n            'div',\n            { className: 'col1of4 text-align-right' },\n            React.createElement(\n              'div',\n              { className: 'row' },\n              item.availability\n            ),\n            React.createElement(\n              'div',\n              { className: 'row' },\n              React.createElement(\n                'span',\n                { className: 'grey-text' },\n                item.type\n              )\n            )\n          )\n        )\n      )\n    );\n  },\n  render: function render() {\n    var props = this.props;\n\n    var inputProps = {\n      type: 'text',\n      // TODO: id: 'assign-or-add-input'???\n      className: 'row',\n      placeholder: props.placeholder\n    };\n\n    var wrapperProps = { style: {} };\n\n    return React.createElement(\n      'div',\n      null,\n      React.createElement(Autocomplete, {\n        ref: 'autocomplete',\n        value: this.state.value,\n        items: props.searchResults || [],\n        wrapperProps: wrapperProps,\n        inputProps: inputProps,\n        renderMenu: this._renderMenu,\n        selectOnInputClick: false,\n        getItemValue: function getItemValue(item) {\n          return item.name;\n        },\n        onSelect: this._handleSelect,\n        onChange: this._handleChange,\n        renderItem: this._renderMenuItem\n      })\n    );\n  }\n});"
+      "source": "// TODO: cleanup\n/* eslint-disable react/no-string-refs */\n\n/* global _ */\n/* global _jed */\nimport React from 'react';\nimport createReactClass from 'create-react-class';\nimport PropTypes from 'prop-types';\n\nimport Autocomplete from '@eins78/react-autocomplete';\n\nexport var HandoverAutocomplete = createReactClass({\n  displayName: 'HandoverAutocomplete',\n\n  propTypes: {\n    placeholder: PropTypes.string.isRequired,\n    onChange: PropTypes.func.isRequired,\n    onSelect: PropTypes.func.isRequired,\n    isLoading: PropTypes.bool.isRequired,\n    searchResults: PropTypes.arrayOf(PropTypes.shape({\n      name: PropTypes.string.isRequired,\n      availability: PropTypes.string,\n      type: PropTypes.string.isRequired,\n      record: PropTypes.object.isRequired\n    }))\n  },\n  getInitialState: function getInitialState() {\n    return { value: '' };\n  },\n  _handleChange: function _handleChange(event, value) {\n    // update internal state to reflect new input:\n    this.setState({ value: value });\n    // callback to controller:\n    this.props.onChange(value);\n  },\n  _handleSelect: function _handleSelect(value, item) {\n    // reset the input field\n    this.setState({ value: '' });\n\n    // callback\n    this.props.onSelect(item);\n  },\n\n  // public methods\n  resetInput: function resetInput() {\n    // reset the input field\n    this.setState({ value: '' });\n  },\n\n  // mirror jQueryAutocomplete API\n  val: function val(str) {\n    this.setState({ value: str });\n  },\n\n  // \"partials\"\n  _renderMenu: function _renderMenu(items, value, givenStyles) {\n    var props = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : this.props;\n\n    // show nothing when no search:\n    if (value === '') {\n      return React.createElement('div', { style: { display: 'none' } });\n    }\n\n    var menuProps = {\n      className: 'ui-autocomplete ui-autocomplete-scrollable ui-front ui-menu',\n      style: {\n        display: 'inline-block',\n        position: 'absolute',\n        top: '31px',\n        width: '100%'\n      }\n    };\n\n    if (props.isLoading) {\n      return React.createElement(\n        'div',\n        menuProps,\n        React.createElement('div', { className: 'loading-bg-small margin-top-m margin-bottom-m' })\n      );\n    }\n\n    var models = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Model');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var options = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Option');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    var templates = _.sortBy(_.filter(items, function (i) {\n      return i.props.item.type === _jed('Template');\n    }), function (i) {\n      return i.props.item.name;\n    });\n\n    // searched but no results:\n    if (props.searchResults && _.all([models, options, templates], _.isEmpty)) {\n      return React.createElement(\n        'ul',\n        menuProps,\n        React.createElement(\n          'li',\n          { className: 'padding-left-s margin-top-m margin-bottom-m' },\n          _jed('No results')\n        )\n      );\n    }\n\n    return React.createElement(\n      'ul',\n      menuProps,\n      _.isEmpty(models) ? null : this._renderMenuSubSection(_jed('Models'), models),\n      _.isEmpty(options) ? null : this._renderMenuSubSection(_jed('Options'), options),\n      _.isEmpty(templates) ? null : this._renderMenuSubSection(_jed('Templates'), templates)\n    );\n  },\n  _renderMenuSubSection: function _renderMenuSubSection(heading, list) {\n    return [React.createElement(\n      'li',\n      { className: 'submenu-header', key: heading + '-header' },\n      React.createElement(\n        'b',\n        null,\n        heading\n      )\n    ), React.createElement(\n      'li',\n      { className: 'submenu-scroll', key: heading + '-list' },\n      React.createElement(\n        'ul',\n        null,\n        list\n      )\n    )];\n  },\n  _renderMenuItem: function _renderMenuItem(item) {\n    return React.createElement(\n      'li',\n      {\n        key: item.type + item.name + item.record.cid,\n        item: item,\n        id: item.abbr,\n        className: 'separated-bottom exclude-last-child' },\n      React.createElement(\n        'a',\n        { className: 'row' + (!item.available ? ' light-red' : ''), title: item.name },\n        React.createElement(\n          'div',\n          { className: 'row' },\n          React.createElement(\n            'div',\n            { className: 'col3of4', title: item.name },\n            React.createElement(\n              'strong',\n              { className: 'wrap' },\n              item.name\n            )\n          ),\n          React.createElement(\n            'div',\n            { className: 'col1of4 text-align-right' },\n            React.createElement(\n              'div',\n              { className: 'row' },\n              item.availability\n            ),\n            React.createElement(\n              'div',\n              { className: 'row' },\n              React.createElement(\n                'span',\n                { className: 'grey-text' },\n                item.type\n              )\n            )\n          )\n        )\n      )\n    );\n  },\n  render: function render() {\n    var props = this.props;\n\n    var inputProps = {\n      type: 'text',\n      // TODO: id: 'assign-or-add-input'???\n      className: 'row',\n      placeholder: props.placeholder\n    };\n\n    var wrapperProps = {\n      style: {}\n    };\n\n    return React.createElement(Autocomplete, {\n      ref: 'autocomplete',\n      value: this.state.value,\n      items: props.searchResults || [],\n      wrapperProps: wrapperProps,\n      inputProps: inputProps,\n      renderMenu: this._renderMenu,\n      selectOnInputClick: false,\n      getItemValue: function getItemValue(item) {\n        return item.name;\n      },\n      onSelect: this._handleSelect,\n      onChange: this._handleChange,\n      renderItem: this._renderMenuItem\n    });\n  }\n});"
     },
     {
       "id": 9,
@@ -5248,7 +5248,7 @@
           "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
           "type": "harmony import",
           "userRequest": "create-react-class",
-          "loc": "9:0-50"
+          "loc": "7:0-50"
         },
         {
           "moduleId": 46,
@@ -5737,9 +5737,9 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/babel-loader/lib/index.js??ref--0!/Users/ma/CODE/leihs/legacy/app/javascript/packs/server_rendering.js",
-      "issuerId": 47,
-      "issuerName": "./app/javascript/packs/server_rendering.js",
+      "issuer": "/Users/ma/CODE/leihs/legacy/node_modules/babel-loader/lib/index.js??ref--0!/Users/ma/CODE/leihs/legacy/app/javascript/packs/application.js",
+      "issuerId": 46,
+      "issuerName": "./app/javascript/packs/application.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -5970,7 +5970,7 @@
           "moduleName": "./app/javascript/components/HandoverAutocomplete.js",
           "type": "harmony import",
           "userRequest": "@eins78/react-autocomplete",
-          "loc": "12:0-54"
+          "loc": "10:0-54"
         }
       ],
       "usedExports": [
